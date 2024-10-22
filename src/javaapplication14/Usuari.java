@@ -9,5 +9,5 @@ package javaapplication14;
  * @author roger
  */
 public class Usuari {
-    
+    //
 }
